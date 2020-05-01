@@ -92,9 +92,12 @@
 .c{
 	border: 1px solid black;
 	background-color: grey;
-	margin: 3px;
+  margin: 1px;
 }
 .mid{
 	text-align: center;
 	font-size: 1.5em;
+}
+#main{
+  width: 100%;
 }
